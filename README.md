@@ -152,11 +152,6 @@ fast-dxf/
     └── cases/           # 合成图纸 + 期望值 JSON
 ```
 
-## 反馈
-
-导入出错时请附上：Blender 版本、图纸来源软件与导出格式、控制台的 `[FastDXF]` 输出。
-能复现的最小图纸最好，但**不要上传单位内部的工程图**——用 ezdxf 造一个同类结构的小文件即可。
-
 ## 许可证
 
 GNU General Public License v3.0 or later，全文见 [LICENSE](LICENSE)。
