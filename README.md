@@ -17,7 +17,7 @@
 
 ## 安装
 
-1. 下载 `fast_dxf-0.2.0.zip`（GitHub Release 或本地 `dist/`）
+1. 下载 `fast_dxf-0.2.0.zip`
 2. Blender 4.2+ → `编辑 > 偏好设置 > 扩展` → 右上角下拉 → `从磁盘安装`
 3. 选择 zip，启用扩展
 
