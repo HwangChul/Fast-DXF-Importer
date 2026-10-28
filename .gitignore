@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Blender / 打包产物
+dist/
+*.blend1
+*.blend2
+
+# 开发环境
+.venv/
+venv/
+.pytest_cache/
+.eggs/
+*.egg-info/
+
+# 本地 agent 工作目录：含真实图纸、备份、验证输出，永不入库
+.agent-work/
+
+# 编辑器
+.vscode/
+.idea/

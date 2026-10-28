@@ -1,0 +1,15 @@
+{
+  "name": "mirror_ocs",
+  "desc": "镜像 OCS：circle/lwpolyline/arc/insert",
+  "bbox_min": [
+    -3.0,
+    0.0,
+    0.0
+  ],
+  "bbox_max": [
+    5.0,
+    5.0,
+    0.0
+  ],
+  "texts": []
+}

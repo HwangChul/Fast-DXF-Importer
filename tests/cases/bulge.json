@@ -1,0 +1,15 @@
+{
+  "name": "bulge",
+  "desc": "LWPOLYLINE 正负 bulge 与直线混排",
+  "bbox_min": [
+    -0.0,
+    -1.0,
+    0.0
+  ],
+  "bbox_max": [
+    9.0,
+    3.0,
+    0.0
+  ],
+  "texts": []
+}

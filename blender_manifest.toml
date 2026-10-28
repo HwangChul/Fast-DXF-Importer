@@ -1,0 +1,29 @@
+schema_version = "1.0.0"
+
+id = "fast_dxf"
+version = "0.2.0"
+name = "Fast DXF Importer"
+tagline = "High-performance DXF import for large drawings"
+maintainer = "HwangChul"
+type = "add-on"
+
+tags = ["Import-Export"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2026 HwangChul",
+]
+
+[permissions]
+files = "Import DXF files from disk"
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "*.pyc",
+]
