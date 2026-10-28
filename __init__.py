@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Fast DXF Importer",
-    "author": "小八",
+    "author": "HwangChul",
     "version": (0, 2, 0),
     "blender": (4, 2, 0),
     "location": "File > Import > Fast DXF",
